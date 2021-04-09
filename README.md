@@ -1,4 +1,4 @@
-### Hi there I'm zstone12👋
+### Hi 👋,I'm zstone12
 
 <!--
 **zstone12/zstone12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-My GitHub Stats
+### My GitHub Stats
+
 [![GitHub data](https://github-readme-stats.vercel.app/api?username=zstone12)]()
 
 
