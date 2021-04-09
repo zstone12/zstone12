@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub data](https://github-readme-stats.vercel.app/api?username=zstone12)]()
+
+### I like running
+[![running](https://raw.githubusercontent.com/zstone12/running_page/master/assets/github.svg)](https://running-page-phi.vercel.app/)
